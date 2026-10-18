@@ -1,0 +1,14 @@
+# Executaveis compilados
+computador/principal
+computador/teste_microfone
+computador/voz_ao_vivo
+computador/teste_serial
+computador/controle_voz
+
+# Arquivos de teste de audio
+computador/teste.wav
+computador/gravacao.pcm
+
+# Modelo Vosk e arquivo compactado
+vosk-model-small-pt-0.3/
+vosk-model-small-pt-0.3.zip
